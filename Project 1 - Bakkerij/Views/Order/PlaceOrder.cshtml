@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Bestelling Plaatsen";
+}
+
+<div class="container">
+    <h1>Plaats een Bestelling</h1>
+    <form>
+        <div class="form-group">
+            <label for="product">Product:</label>
+            <select class="form-control" id="product">
+                <option>Ham en kaas</option>
+                <option>Tonijn</option>
+                <option>Kipfilet</option>
+                <option>Gezond</option>
+                <option>Kaas</option>
+                <option>Salami</option>
+                <!-- Voeg meer producten toe -->
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="quantity">Hoeveelheid:</label>
+            <input type="number" class="form-control" id="quantity" min="1" value="1">
+        </div>
+        <button type="submit" class="btn btn-primary">Bestellen</button>
+    </form>
+</div>
+

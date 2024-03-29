@@ -1,0 +1,64 @@
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.csproj.AssemblyReference.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.AssemblyInfoInputs.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.AssemblyInfo.cs
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.csproj.CoreCompileInputs.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.RazorAssemblyInfo.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.RazorAssemblyInfo.cs
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\appsettings.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.staticwebassets.runtime.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.exe
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.deps.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.runtimeconfig.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Project 1 - Bakkerij.pdb
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\scopedcss\bundle\Project 1 - Bakkerij.styles.css
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\scopedcss\projectbundle\Project 1 - Bakkerij.bundle.scp.css
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\refint\Project 1 - Bakkerij.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.pdb
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.genruntimeconfig.cache
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\ref\Project 1 - Bakkerij.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\obj\Debug\net6.0\Project 1 - Bakkerij.csproj.CopyComplete
+C:\Users\Rune De Corte\Documents\School\Fase 2\Vives ICT2 sem2\Web Development 2\Project 1 - Bakkerij\Project 1 - Bakkerij\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
