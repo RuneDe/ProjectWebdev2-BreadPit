@@ -56,6 +56,7 @@ namespace Project_1___Bakkerij.Controllers
             return View(model);
         }
 
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginModel model)

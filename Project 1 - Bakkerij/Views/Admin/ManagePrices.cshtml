@@ -1,5 +1,18 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Project_1___Bakkerij.Models.ProductModel>
+
 @{
+    ViewData["Title"] = "Productprijzen aanpassen";
 }
+
+<h1>Productprijzen aanpassen</h1>
+
+<form asp-action="UpdateProductPrices" method="post">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+            <div class="form-group">
+                <label asp-for="@Model[i].Price">@Model[i].ProductName</label>
+                <input asp-for="@Model[i].Price" class="form-control" />
+            </div>
+    }
+    <button type="submit" class="btn btn-primary">Opslaan</button>
+</form>

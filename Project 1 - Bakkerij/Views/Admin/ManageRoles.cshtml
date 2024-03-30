@@ -1,5 +1,42 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model List<Project_1___Bakkerij.Models.AdminModel>
+
 @{
+    ViewData["Title"] = "Beheer van administrators";
 }
+
+<h1>Beheer van administrators</h1>
+
+<form asp-action="CreateAdministrator" method="post">
+    <div class="form-group">
+        <label for="AdminUsername">Gebruikersnaam:</label>
+        <input type="text" class="form-control" id="AdminUsername" name="AdminUsername" required>
+    </div>
+    <div class="form-group">
+        <label for="Password">Wachtwoord:</label>
+        <input type="password" class="form-control" id="Password" name="Password" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Administrator aanmaken</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Gebruikersnaam</th>
+            <th>Actie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var admin in Model)
+        {
+                <tr>
+                    <td>@admin.AdminUsername</td>
+                    <td>
+                        <form asp-action="DeleteAdministrator" method="post">
+                            <input type="hidden" name="adminId" value="@admin.Id" />
+                            <button type="submit" class="btn btn-danger">Verwijderen</button>
+                        </form>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

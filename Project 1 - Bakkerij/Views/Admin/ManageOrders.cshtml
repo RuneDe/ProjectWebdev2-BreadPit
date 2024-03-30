@@ -1,5 +1,33 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model List<Project_1___Bakkerij.Models.OrderModel>
+
+<form asp-action="DeleteOrders" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Gebruikers-ID</th>
+                <th>Productnaam</th>
+                <th>Hoeveelheid</th>
+                <th>Totaalprijs</th>
+                <th>Actie</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                foreach (var orderItem in order.OrderItems)
+                {
+                            <tr>
+                                <td>@order.Id</td>
+                                <td>@order.CustomerId</td>
+                                <td>@orderItem.ProductId</td>
+                                <td>@orderItem.Quantity</td>
+                                <td>@order.TotalPrice</td>
+                                <td><input type="checkbox" name="orderIds" value="@order.Id" /></td>
+                            </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-danger">Verwijder geselecteerde bestellingen</button>
+</form>

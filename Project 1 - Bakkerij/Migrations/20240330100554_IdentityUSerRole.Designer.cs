@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Project_1___Bakkerij.Data;
 
@@ -11,9 +12,10 @@ using Project_1___Bakkerij.Data;
 namespace Project_1___Bakkerij.Migrations
 {
     [DbContext(typeof(ContosoBreadContext))]
-    partial class ContosoBreadContextModelSnapshot : ModelSnapshot
+    [Migration("20240330100554_IdentityUSerRole")]
+    partial class IdentityUSerRole
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

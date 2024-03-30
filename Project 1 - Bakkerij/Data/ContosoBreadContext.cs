@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Project_1___Bakkerij.Models;
 
@@ -23,6 +24,11 @@ namespace Project_1___Bakkerij.Data
             base.OnModelCreating(modelBuilder); // This is needed to correctly set up the Identity model
 
             modelBuilder.Entity<UserModel>().ToTable("Users"); // This line changes the table name to 'Users'
+
+            modelBuilder.Entity<IdentityUserClaim<string>>().ToTable("IdentityUserClaims"); // Explicitly set the table name for user claims
+
+            modelBuilder.Entity<IdentityUserRole<string>>().ToTable("AspNetUserRoles");
+
 
             modelBuilder.Entity<OrderModel>()
                 .HasOne(o => o.Customer)
