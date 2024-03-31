@@ -1,4 +1,3 @@
-// Program.cs
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Project_1___Bakkerij.Data;
@@ -8,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddSession(); // Voeg deze regel toe
+builder.Services.AddSession(); // Voeg deze regel toe voor sessiebeheer
 builder.Services.AddDbContext<ContosoBreadContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -33,9 +32,9 @@ app.UseRouting();
 
 app.UseStatusCodePages();
 
-app.UseSession(); // Voeg deze regel toe
+app.UseSession(); // Voeg deze regel toe voor sessiebeheer
 
-app.UseAuthentication(); // Add this line
+app.UseAuthentication(); // Voeg deze regel toe voor authenticatie
 app.UseAuthorization();
 
 app.MapControllerRoute(
